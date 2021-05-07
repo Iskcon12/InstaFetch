@@ -1,4 +1,4 @@
-# [Instagram Photo Downloader](https://www.instafetch.ml/)
+# [INSTAFETCH](https://www.instafetch.ml/)
 
 Free, Clean & Simple **Instagram Photo Downloader** for you. :slightly_smiling_face: <br>
 Download **Instagram Photos** in high quality with ease.<br>
