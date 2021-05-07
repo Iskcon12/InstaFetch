@@ -14,6 +14,6 @@ Download **Instagram Photos** in high quality with ease.<br>
 * Bootstrap - http://getbootstrap.com/
 * jQuery - http://jquery.com/
 
-> License: [GNU General Public License v3.0](https://github.com/harsh98trivedi/YouTube-Thumbnail-Downloader/blob/master/LICENSE.md)
+> License: GNU General Public License v3.0
 
 ![Instagram Photo Downloader](https://img.shields.io/badge/Instagram-Photo%20Downloader-purple.svg)
